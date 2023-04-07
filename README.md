@@ -1,7 +1,7 @@
-![MasterHead](https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e47e9wc60tjl2x78skvmrk3ku9s1titc8m7v0phx2do&rid=giphy.gif&ct=g)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Dishant</h1>
 <h3 align="center">pursuing my computer science in BE</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47oxpdbl90jjp5vz5w6jpcgamjx0sdufx6g2hgdyzv&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantomgaze&label=Profile%20views&color=0e75b6&style=flat" alt="phantomgaze" /> </p>
 
